@@ -1,0 +1,18 @@
+.Slide {
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.slides {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slide {
+    list-style: none;
+}
+
+.slide img {
+
+}
